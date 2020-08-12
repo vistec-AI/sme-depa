@@ -1,46 +1,6 @@
 # sme-depa
 Help small businesses make money from their transaction data, workshop at depa
 
-developing
-
-## Course syllabus 
-
-1. Why SMEs Need Data Analytics (1 hour)
-
-	1.1 Risk management; nothing -> gut feeling -> data-driven + gut feeling
-
-	1.2 Proactive targeting
-
-	1.3 Knowledge transfer to next generation
-
-	1.4 Amazon Retail Analytics (now Brand Analytics) used to be priced at 30,000 USD a year
-
-	1.5 Set expectations to use only transaction data; Google Analytics data for next session
-
-2. Inventory Management (2 hours)
-
-	2.1 Demand forecasting and replenishment; when and how much to buy
-
-	2.2 Stock movement anomaly detection; how to detect spikes
-
-3. Customer Targeting (2 hours)
-
-	3.1 Retention curve; when will customers become loyal
-
-	3.2 Customer segmentation; how to target based on RFMQ, category/brand/discount preference, channels, location, demographics
-
-	3.3 Product recommendation; what to recommend using market basket analysis
-
-	3.3 Lifetime value estimation; what customer segments/products bring you the most lifetime value, does your discounts work
-
-	3.4 Churn prediction; who are leaving and should/how we stop them
-
-4. A/B Testing; how to make sure your segments work (1 hour)
-
-5. Data Collection; bonus track
-
-6. Store location; bonus track
-
 # เวิร์คชอป "เดต้าค้าปลีก - เปลี่ยนข้อมูลเป็นกำไรได้ด้วย spreadsheet"
 
 ธุรกิจขนาดกลางและขนาดเล็กแทบทุกรายมีข้อมูลการซื้อขายหรือ point of sale (POS) ย้อนหลังหลายปีหรือแม้แต่หลายสิบปี แต่ไม่ใช่ทุกรายที่สามารถใช้ประโยชน์จากข้อมูลชุดนี้ได้อย่างเต็มรูปแบบ ในเวิร์คชอปนี้เราจะมาเรียนรู้การใช้เครื่องมือที่ใครๆก็สามารถเข้าถึงได้คือ spreadsheet (Microsoft Excel, Google Sheets, Numbers, OpenOffice Calc) มาจัดการกับข้อมูล POS ของคุณให้เป็นระเบียบ เพื่อต่อยอดเพิ่มรายได้จากลูกค้าปัจจุบัน จำกัดความเสี่ยงในการจัดซื้อ และหาโอกาสใหม่ๆให้กับธุรกิจของคุณ
@@ -55,6 +15,7 @@ developing
 
 
 ## สิ่งที่จะได้รับจากเวิร์คชอปนี้
+
 * การจัดการสต็อกสินค้า ทำนายได้ว่าควรซื้อของเมื่อไหร่-เยอะแค่ไหน แจ้งเตือนเมื่อสต็อกลดเร็ว-ช้าผิดปกติ
 
 * เข้าใจลูกค้าแต่ละคนของคุณอย่างถ่อแท้ ทั้งในด้านมูลค่าต่อธุรกิจ พฤติกรรมความชอบชนิดสินค้า-แบรนด์-ช่องทางจัดจำหน่าย รวมถึงข้อมูลส่วนบุคคลอื่นๆ เพื่อทำการตลาดเชิงรุกอย่างมีประสิทธิภาพ
@@ -63,5 +24,37 @@ developing
 
 * ประเมินประสิทธิภาพของวิธีทำการตลาดได้อย่างแม่นยำและถูกต้องตามหลักสถิติ
 
+## สารบัญ
 
+0. [สไลด์](https://www.canva.com/design/DAEEd5PQWDw/7_qQ0t3s83NdLECX91XG9w/view?utm_content=DAEEd5PQWDw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+1. [บริหารสต็อค](https://docs.google.com/spreadsheets/d/1NQg3mUdevxsz7kItOTWiBtIJYJlWDGCow08SfTXbq5M/edit?usp=sharing)
+    
+    * Inventory Health Check - ตรวจสุขภาพสต็อคสินค้า
+    
+    * ABC Analysis - จัดลำดับความสำคัญของสินค้า
+    
+    * Demand Forecasting - ทำนายยอดขายเพื่อสต็อคให้ตรงเป้า
+
+2. [ลูกค้าสัมพันธ์](https://docs.google.com/spreadsheets/d/1caE0wCxtUkt2CjeGUvF7XWdmldrMIZRBfko4Enpzi0A/edit?usp=sharing)
+
+    * Retention - รักษาลูกค้า
+    
+    * Customer Segmentation - เข้าใจพฤติกรรมลูกค้าแต่ละกลุ่ม
+    
+    * Personalization - แนะนำอะไรให้คนซื้อ (แล้วซื้ออีก)
+
+3. [หาลูกค้าใหม่]() (developing)
+
+    * Customer Targeting - เลือกกลุ่มลูกค้าที่เหมาะกับธุรกิจ
+    
+    * Lifetime Value Analysis - จ่ายค่าโฆษณาให้คุ้มกับรายได้ต่อ
+    
+    * A/B Testing - ตัดสินว่าโฆษณาไหนได้ผล-ไม่ได้ผล
+    
+
+
+## อ้างอิง
+* [Lokad - The Sample Dataset](https://docs.lokad.com/getting-started/the-sample-dataset/)
+* [Dunnhumby - The Complete Journey](https://www.kaggle.com/frtgnn/dunnhumby-the-complete-journey)
 
